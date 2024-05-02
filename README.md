@@ -21,6 +21,16 @@ npm i
 ```terminal
 npm run dev
 ```
+- Para consumir localmente a API mude a url da host para a local do SpringBoot na pasta `/services` no arquivo `index.tsx`
+
+```index.tsx
+import axios from 'axios'
+
+export const api = axios.create({
+    baseURL: 'http://localhost:8080', //Caso o consumo seja local da API
+    timeout: 10000
+});
+```
 
 ## Acesse sem ser local (Nuvem)
 
