@@ -10,7 +10,7 @@ export const ContentTask = styled.div `
 `
 
 export const ContentHeader = styled.header `
-    font-size:4rem;
+    font-size:3rem;
     display: flex;
     align-items:center;
     justify-content: space-between;
@@ -42,7 +42,7 @@ export const DurationTask = styled.div `
     font-size: 2rem;
 `
 export const ButtonEdit = styled.header `
-    font-size:2rem;
+    font-size:1.5rem;
     width:10vw;
     text-align:center;
     background-color: #bf00ff;
@@ -56,7 +56,7 @@ export const ButtonEdit = styled.header `
 
 `
 export const ButtonDelete = styled.header `
-    font-size:2rem;
+    font-size:1.5rem;
     width:10vw;
     text-align: center;
     background-color: #ff0000;

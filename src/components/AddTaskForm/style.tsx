@@ -25,5 +25,11 @@ export const TextArea = styled.textarea `
 `
 export const Button = styled.button `
     background-color: #ff9900;
+    font-size: 1rem;
+
+    &:hover{
+        background-color: #c57600;
+        cursor: pointer;
+    }
 `
 
