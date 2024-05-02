@@ -11,6 +11,8 @@ export const Form = styled.form `
     border-radius: 1rem;
     font-size: 1.2rem;
     gap:8%;
+    padding-left:1rem;
+    padding-right:1rem;
 `
 export const Input = styled.input `
     background-color: #dfdfdf;
