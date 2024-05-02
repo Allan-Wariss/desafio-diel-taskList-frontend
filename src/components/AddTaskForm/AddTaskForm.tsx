@@ -42,7 +42,7 @@ export const AddTaskForm: React.FC = () => {
                 Título 
                 <Input placeholder='Título da tarefa' type="text" value={title} onChange={(e) => setTitle(e.target.value)} />
             </label>
-            <label style={{display:'flex',justifyContent:'center',alignItems:'center'}}>
+            <label>
                 Descrição 
                 <TextArea placeholder='Descreva sua tarefa' value={description} onChange={(e) => setDescription(e.target.value)} />
             </label>
