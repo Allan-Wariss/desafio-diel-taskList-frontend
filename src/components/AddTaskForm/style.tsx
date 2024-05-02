@@ -8,7 +8,6 @@ export const Form = styled.form `
     height:10vh;
     background-color: white;
     color: black;
-    border-radius: 1rem;
     font-size: 1.2rem;
     gap:8%;
     padding-left:1rem;
