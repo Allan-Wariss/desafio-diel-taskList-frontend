@@ -16,3 +16,7 @@ Se você está desenvolvendo uma aplicação de produção, recomendamos atualiz
 ```terminal
 npm i
 ```
+
+## Acesse sem ser local (Nuvem)
+
+Link: https://desafio-diel-tasklist-frontend-production.up.railway.app
