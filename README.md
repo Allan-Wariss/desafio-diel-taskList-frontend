@@ -16,6 +16,11 @@ Se você está desenvolvendo uma aplicação de produção, recomendamos atualiz
 ```terminal
 npm i
 ```
+- Usando o `npm` rode o seguinte para inciar o projeto localmente:
+
+```terminal
+npm run dev
+```
 
 ## Acesse sem ser local (Nuvem)
 
